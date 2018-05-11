@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1443331591 source:c:\console\console.cpp
+	<stdio.h>
+	<conio.h>
+	"console.h"
+
+1526029099 c:\console\console.h
+	<windows.h>
+
+1526028633 source:c:\snake\snake\snake.cpp
+	"begin.h"
+	"Seting.h"
+	"Run.h"
+	"console.h"
+	<conio.h>
+
+1526010848 source:c:\snake\snake\begin.cpp
+	<iostream>
+	"begin.h"
+	"console.h"
+	<conio.h>
+
+1526009488 c:\snake\snake\begin.h
+
+1526028386 source:c:\snake\snake\seting.cpp
+	<iostream>
+	"Seting.h"
+	"console.h"
+	<windows.h>
+	<time.h>
+	<cstring>
+	<conio.h>
+
+1526013686 c:\snake\snake\seting.h
+
+1526028761 source:c:\snake\snake\run.cpp
+	<iostream>
+	"console.h"
+	"begin.h"
+	"Seting.h"
+	"Run.h"
+	<time.h>
+	<conio.h>
+
+1526014045 c:\snake\snake\run.h
+
